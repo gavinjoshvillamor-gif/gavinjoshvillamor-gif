@@ -28,9 +28,7 @@ New Era University
 
 ## 📫 Contact
 - **Email:** gavinjosh.villamor@neu.edu.ph
-- **Location:** Rodriguez Rizal, Philippines  
-- **Timezone:** UTC+8
-
+  
 ---
 
 Thank you for your visit, I hope to see you again. Goodbye! 🚀
