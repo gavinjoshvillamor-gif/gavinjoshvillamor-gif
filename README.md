@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi people, I'm Gavin Josh Villamor! 👋
 
-<!--
-**gavinjoshvillamor-gif/gavinjoshvillamor-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a strong interest in coding and am skilled in database administration.  I enjoy creating effective solutions and resolving complex issues.  I started my career in technology by obtaining a **Bachelor of Science in Information Technology**, and I'm still developing my abilities through practical projects and certifications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**BS Information Technology**  
+New Era University  
+2023 – Present
+
+---
+
+## 🏅 Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5312f07f5a7e4054a925a8407131e0c7#)
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B9FA6FA2552EF9B9F2C0DAA4817D3A862F2CDFAC2E02898E5781886ABCC3CF6B)
+
+
+
+
+
+---
+
+## 💻 Skill Sets
+### **Programming**
+- HTML 
+- Java Script
+
+### **Databases**
+- IBM DB2 Cloud
+
+---
+
+## 📫 Contact
+- **Email:** gavinjosh.villamor@neu.edu.ph
+  
+---
+
+Thank you for your visit, I hope to see you again. Goodbye! 🚀
